@@ -4,5 +4,5 @@ do
 print("Hello, World!")
 end
 repeat
-priint("Hello, World!")
+print("Hello, World!")
 until(true)
