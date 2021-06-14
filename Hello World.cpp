@@ -11,4 +11,5 @@ int main()
     cout << "Hello, World!" << endl;
     system("echo Hello, World!");//仅Windows系统
     printf("Hello, World");//需要stdio.h
+    return 0;
 }
